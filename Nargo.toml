@@ -1,0 +1,9 @@
+[package]
+name = "differential_noir"
+type = "lib"
+authors = [""]
+compiler_version = ">=0.36.0"
+
+entry = "circuits/lib.nr"
+
+[dependencies]
